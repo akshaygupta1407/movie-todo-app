@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641498729141",
+    "project_id": "musictodo-a1709",
+    "storage_bucket": "musictodo-a1709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641498729141:android:dd6419d6380d02421fccfc",
+        "android_client_info": {
+          "package_name": "com.example.movietodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641498729141-jehejk00p3bk31jtslvqata0ggh1cjk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movietodo",
+            "certificate_hash": "79cdad33b6b1edd7712c6d5a1c6321cebd903e2e"
+          }
+        },
+        {
+          "client_id": "641498729141-h4cmjnodfmolft230a88e9qd75fpcp6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZadgh_pskq0xqg4KYou7sSAFMKuDIhK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641498729141-h4cmjnodfmolft230a88e9qd75fpcp6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
